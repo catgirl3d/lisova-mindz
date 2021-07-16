@@ -73,6 +73,10 @@ a {
 	color: white;
 }
 
+.deal-status-light.status-deal-status.status-pending {
+	background: #efe1ff;
+}
+
 .deal-status.status-payment_waiting {
 	background: rgba(255, 220, 81, 0.9);
 	color: black;
