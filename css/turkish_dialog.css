@@ -2,7 +2,9 @@
 	background-color: #5775bd !important;
 	border-color: #5775bd !important;
 }
-
+.bg-lightblue {
+	background: #fdf3cd;
+}
 .btn-primary.focus, .btn-primary:focus {
 	background-color: #4a65a4 !important;
 	border-color: #4a65a4 !important;
