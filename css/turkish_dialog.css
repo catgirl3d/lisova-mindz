@@ -79,6 +79,10 @@ a {
 	background: #efe1ff;
 }
 
+.deal-status.status-cancelled {
+	background: #605e5e;
+	color: white;
+}
 .deal-status.status-payment_waiting {
 	background: rgba(255, 220, 81, 0.9);
 	color: black;
