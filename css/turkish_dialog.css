@@ -97,7 +97,7 @@ a {
 
 .deal-status.status-payed.not-payed {
 	font-weight: bold;
-	background: rgba(140, 140, 140, 0.45);
+	background: rgb(232, 232, 232);
 	border: #686868 1px dashed;
 	color: black;
 }
