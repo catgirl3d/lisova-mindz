@@ -123,6 +123,7 @@ a {
 
 #select2-drop {
 	width: 400px ;
+	min-width: 290px !important;
 }
 textarea.normal {
 	/*height: 500px;*/
