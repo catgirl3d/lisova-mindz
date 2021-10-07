@@ -86,9 +86,12 @@ a {
 .deal-status.status-payment_waiting {
 	background: rgba(255, 220, 81, 0.9);
 	color: black;
-	font-weight: lighter;
+	font-weight: bold;
 }
 
+.deal-status-light.status-payment_waiting {
+	background: rgba(255, 220, 81, 0.31);
+}
 .deal-status-light.status-in_work {
 	background: #ececec;
 	padding-right: 30px;
