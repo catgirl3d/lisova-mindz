@@ -530,3 +530,9 @@ height: 500px !important;
 	background: #ffdada;
 }
 
+.resp-table .resp-left-block .resp-list li.fixed-by-manager.is-manager {
+	background: #ececec;
+	border-left: 6px solid #ffb201;
+	border-top-width: 1px;
+	border-bottom-width: 1px;
+}
