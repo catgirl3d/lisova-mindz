@@ -553,3 +553,13 @@ height: 500px !important;
 	height: 30px;
 	background: none;
 }
+
+.gc-modal .modal-header {
+	background: #656BBD ;
+	color: white;
+	font-weight: bold;
+}
+
+.conversation-widget .own-user-comment .comment > .text .text-content, .conversation-widget .my-comment .comment > .text .text-content {
+	background-color: #ffffe6 !important;
+	
