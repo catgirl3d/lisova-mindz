@@ -567,6 +567,10 @@ height: 500px !important;
 	background: white;
 	overflow-x: hidden;
 	text-overflow: ellipsis;
-	border: 1px solid #eaeaea85;
-	box-shadow: 2px 2px 8px 0px rgba(34, 60, 80, 0.05);
+	border: 1px solid #eaeaea85 !important;
+	box-shadow: 2px 2px 8px 0px rgba(34, 60, 80, 0.05) !important;
+}
+	
+.conversation-widget .comment-wrapper .comment .text-content {
+	border-radius: 4px !important;
 }
