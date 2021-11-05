@@ -563,3 +563,10 @@ height: 500px !important;
 .conversation-widget .own-user-comment .comment > .text .text-content, .conversation-widget .my-comment .comment > .text .text-content {
 	background-color: #edf0ff !important;
 	
+.conversation-widget .comment > .text .text-content {
+	background: white;
+	overflow-x: hidden;
+	text-overflow: ellipsis;
+	border: 1px solid #eaeaea85;
+	box-shadow: 2px 2px 8px 0px rgba(34, 60, 80, 0.05);
+}
