@@ -1,6 +1,6 @@
 .btn-primary {
-	background-color: #5775bd !important;
-	border-color: #5775bd !important;
+	background-color: #5e79bb !important;
+	border-color: #5e79bb !important;
 }
 .bg-lightblue {
 	background: #fdf3cd;
@@ -555,7 +555,7 @@ height: 500px !important;
 }
 
 .gc-modal .modal-header {
-	background: #656BBD ;
+	background: #5e79bb;
 	color: white;
 	font-weight: bold;
 }
