@@ -533,4 +533,5 @@ height: 500px !important;
 .resp-table .resp-left-block .resp-list li.fixed-by-manager.is-manager {
 	background: #ececec !important;
 	border-left: 6px solid #ffb201 !important;
+	border: none !important;;
 }
