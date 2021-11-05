@@ -541,7 +541,8 @@ height: 500px !important;
 }
 
 .resp-table .resp-content .resp-content-title.fixed-by-me {
-	background: #fff8ef;
+	background: #e8e8e8;
+	border-left: solid #ffb201 5px;
 }
 
 .resp-table .resp-left-block .resp-list li.fixed-by-manager .resp-blocked-by {
