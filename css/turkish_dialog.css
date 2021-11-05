@@ -554,7 +554,7 @@ height: 500px !important;
 	background: none;
 }
 
-.gc-modal .modal-header {
+.modal-without-padding > .modal-dialog > .modal-content > .modal-header {
 	background: #5e79bb;
 	color: white;
 	font-weight: bold;
