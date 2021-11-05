@@ -539,3 +539,17 @@ height: 500px !important;
 	border-left: 6px solid #ffb201 !important;
 	background: #ececec !important;
 }
+
+.resp-table .resp-content .resp-content-title.fixed-by-me {
+	background: #fff8ef;
+}
+
+.resp-table .resp-left-block .resp-list li.fixed-by-manager .resp-blocked-by {
+	display: block;
+	position: absolute;
+	width: 30px;
+	right: 0;
+	top: 0;
+	height: 30px;
+	background: none;
+}
