@@ -89,7 +89,7 @@ a {
 	font-weight: bold;
 }
 .deal-status-light.status-in_work {
-	background: #e5e6ff;
+	background: #e5e6ff !important;
 	padding-right: 30px;
 	font-weight: lighter;
 }
