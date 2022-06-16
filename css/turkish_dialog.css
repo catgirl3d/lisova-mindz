@@ -578,3 +578,10 @@ height: 500px !important;
 
 .conversation-widget .own-user-comment .comment > .text .text-content, .conversation-widget .my-comment .comment > .text .text-content {
 	background-color: #edf0ff !important;
+
+	
+.select2-container .select2-choice {
+	height: 35px;
+	line-height: 1.45;
+	width: 580px !important;
+}
