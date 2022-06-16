@@ -580,6 +580,8 @@ height: 500px !important;
 	background-color: #edf0ff !important;
 }
 	
+@media screen and (max-width: 1000px) {
 .select2-container {
 	width: 642px !important;
+}
 }
