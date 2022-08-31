@@ -581,7 +581,7 @@ height: 500px !important;
 }
 	
 @media screen and (min-width: 1000px) {
-#s2id_addmailingmessageoperation-mailing_id {
-	width: 642px !important;
+	#s2id_addmailingmessageoperation-mailing_id {
+	width: 100% !important;
 }
 }
