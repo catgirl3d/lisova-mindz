@@ -585,3 +585,9 @@ height: 500px !important;
 	width: 100% !important;
 }
 }
+
+.p-border1{
+background: #f0f0f0;
+padding: 10px;
+border-left: 3px solid;
+}
