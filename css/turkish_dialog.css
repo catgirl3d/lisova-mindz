@@ -591,3 +591,9 @@ background: #f0f0f0;
 padding: 10px;
 border-left: 3px solid;
 }
+
+.tags_js_pretty {
+	border-radius: 3px;
+	background-color: coral;
+	color: white !important;
+}
