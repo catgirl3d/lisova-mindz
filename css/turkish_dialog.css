@@ -468,7 +468,7 @@ font-weight: lighter;
 	background: #e1e1e1 !important;
 }
 
-/* теги */
+/* теги 
 .gc-tags span, .gc-tags a {
 	background: coral;
 	color: white;
@@ -476,7 +476,7 @@ font-weight: lighter;
 
 .gc-tags span.no-tags {
 	background: #6a6a6a;
-}
+}*/
 
 .talks-widget-button {
 	background: #345980 !important;
