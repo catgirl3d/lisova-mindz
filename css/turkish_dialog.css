@@ -89,17 +89,11 @@ a {
 	font-weight: bold;
 }
 .deal-status.status-in_work {
-	backgroundd: linear-gradient(130deg, rgb(68, 135, 221) 24%, rgb(40, 83, 164) 94%) !important;
-	padding-right: 30px;
+	background: linear-gradient(130deg, rgb(68, 135, 221) 24%, rgb(40, 83, 164) 94%) !important;
 	font-weight: bold;
 }
 .deal-status-light.status-payment_waiting {
 	background: rgba(255, 220, 81, 0.31);
-}
-.deal-status-light.status-in_work {
-	background: #ececec;
-	padding-right: 30px;
-	font-weight: lighter;
 }
 
 .deal-status.status-payed.not-payed {
