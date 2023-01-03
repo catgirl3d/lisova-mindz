@@ -89,7 +89,7 @@ a {
 	font-weight: bold;
 }
 .deal-status.status-in_work {
-	linear-gradient(110deg, rgb(68, 135, 221) 24%, rgb(40, 83, 164) 94%) !important;
+	linear-gradient(130deg, rgb(68, 135, 221) 24%, rgb(40, 83, 164) 94%) !important;
 	padding-right: 30px;
 	font-weight: lighter;
 }
