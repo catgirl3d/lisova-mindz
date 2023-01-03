@@ -92,6 +92,10 @@ a {
 	background: linear-gradient(130deg, rgb(68, 135, 221) 24%, rgb(40, 83, 164) 94%) !important;
 	font-weight: bold;
 }
+.deal-status-light {
+	color: #646464;
+	font-weight: lighter;
+}
 .deal-status-light.status-payment_waiting {
 	background: rgba(255, 220, 81, 0.31);
 }
