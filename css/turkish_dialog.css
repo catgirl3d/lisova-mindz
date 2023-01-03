@@ -88,8 +88,8 @@ a {
 	color: black;
 	font-weight: bold;
 }
-.deal-status-light.status-in_work {
-	background: #e5e6ff !important;
+.deal-status.status-in_work {
+	linear-gradient(110deg, rgb(68, 135, 221) 24%, rgb(40, 83, 164) 94%) !important;
 	padding-right: 30px;
 	font-weight: lighter;
 }
