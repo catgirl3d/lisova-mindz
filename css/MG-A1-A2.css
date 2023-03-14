@@ -1,9 +1,11 @@
 .subtitle-order > div > p {
 	color: #bf3949;
 }
+
 .f-subheader.f-subheader-.f-text-transform-uppercase{
 color: #bf3949;
 }
+
 hr {
 	margin-top: 15px;
 	margin-bottom: 20px;
@@ -35,6 +37,7 @@ hr {
 	.field-label {
 	font-size: 12px !important;
 }
+	
 .block-set {
 	font-size: 14px;
 }
@@ -48,7 +51,7 @@ hr {
 	margin-left: -11px;
 }
 @media screen and (max-width: 400px) {
-	.lt-form {
+	.lt-form form.lt-form-inner {
 	padding-left: 15px !important;
 	padding-right: 15px !important;
 	padding-bottom: 10px !important;
