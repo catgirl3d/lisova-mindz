@@ -115,9 +115,10 @@ hr {
 .lt-form form.lt-form-inner {
 	border-radius: 6px !important;
 }
+
 .lt-form .f-input {
 	border: 1px solid #8c8c8c !important;
-	height: 52px;
+	height: 55px;
 	font-size: 15px;
 	border-radius: 5px;
 	-moz-border-radius: 5px;
@@ -134,6 +135,7 @@ hr {
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	background: white;
+	height: 55px;
 	
 }
 
@@ -164,6 +166,7 @@ hr {
 	line-height: 1.23;
 	margin-top:-20px;
 }
+	
 	.field-label {
 	font-size: 13px !important;
 }
