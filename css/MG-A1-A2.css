@@ -41,14 +41,18 @@ hr {
 	font-size: 13px !important;
 }
 	
+	.label-value {
+	font-size: 13px;
+	margin-bottom: 5px;
+	font-weight: 400;
+	font-family: "Open Sans",sans-serif,sans,arial;
+}
+	
 	.block-set {
 	font-size: 14px;
 }
-	.label-value {
-	font-size: 13px;
-}
 	.builder-item.part-total {
-	font-size: 15px;
+	font-size: 15px !important;
 }
 
 	.lt-form form.lt-form-inner {
@@ -56,12 +60,14 @@ hr {
 	padding-right: 20px !important;
 	padding-bottom: 20px !important;
 	}
+	
 	input.f-input {
 	height: 50px;
 }
 	.lt-form .f-input-wrapper select {
 	border: 1px solid rgb(204, 204, 204);
 	height: 50px;
+	
 }
 }
 
@@ -141,9 +147,6 @@ hr {
 }
 
 .form-position {
-
-	display: block;
-	cursor: pointer;
 	padding-left: 15px;
 	padding-top: 10px;
 	padding-right: 10px;
@@ -162,7 +165,6 @@ hr {
 }
 
 
-
 .form-position.selected {
 	background: #f4f4f4;
 	margin-bottom: 0px !important;
@@ -170,13 +172,13 @@ hr {
 
 
 .f-input {
-	border: 1px solid rgb(204, 204, 204);
 	height: 52px;
 	font-size: 15px;
-	color: #7d7d7d;
 	border-radius: 5px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
+	border: 1px solid #666;
+	color: #1e1e1e;
 	}
 	
 .global-confirm-checkbox-block {
@@ -185,7 +187,7 @@ hr {
 
 .lt-form .f-input-wrapper select 
 {
-	border: 1px solid rgb(204, 204, 204);
+	border: 1px solid #666;
 	height: 52px;
 	font-size: 15px;
 	color: #7d7d7d;
