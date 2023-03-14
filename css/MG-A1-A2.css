@@ -119,14 +119,14 @@ hr {
 	border-radius: 5px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
-	border: 1px solid #666;
+	border: 1px solid #8c8c8c;
 	color: #1e1e1e;
 	}
 	
 
 .lt-form .f-input-wrapper select 
 {
-	border: 1px solid #8a8a8a;
+	border: 1px solid #8c8c8c;
 	font-size: 15px;
 	color: #7d7d7d;
 	border-radius: 5px;
@@ -188,7 +188,7 @@ hr {
 	}
 	
 	.lt-form .f-input-wrapper select {
-	border: 1px solid #8a8a8a;
+	border: 1px solid #8c8c8c;
 	height: 50px;
 	font-size: 14px
 	
