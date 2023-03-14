@@ -52,10 +52,18 @@ hr {
 }
 @media screen and (max-width: 400px) {
 	.lt-form form.lt-form-inner {
-	padding-left: 15px !important;
-	padding-right: 15px !important;
-	padding-bottom: 10px !important;
-	}}
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+	padding-bottom: 20px !important;
+	}
+input.f-input {
+	height: 50px;
+}
+	.lt-form .f-input-wrapper select {
+	border: 1px solid rgb(204, 204, 204);
+	height: 50px;
+}
+}
 
 .footerform {
 	padding-top: 10px;
@@ -175,6 +183,7 @@ hr {
 	border-radius: 5px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
+	background: white;
 	
 }
 
