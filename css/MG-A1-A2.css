@@ -80,7 +80,7 @@ hr {
 .offer-title {
 	font-size: 15px;
 	display: block;
-	padding-left: 38px;
+	padding-left: 20px;
 }
 
 .builder-item.part-position {
@@ -194,6 +194,7 @@ hr {
 	.lt-form .f-input-wrapper select {
 	border: 1px solid rgb(204, 204, 204);
 	height: 50px;
+	font-size: 14px
 	
 }
 }
