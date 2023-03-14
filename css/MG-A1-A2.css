@@ -112,17 +112,15 @@ hr {
 	margin-bottom: 0px !important;
 }
 
-
-.f-input {
+.lt-form .f-input {
+	border: 1px solid #8c8c8c;
 	height: 52px;
 	font-size: 15px;
 	border-radius: 5px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
-	border: 1px solid #8c8c8c;
 	color: #1e1e1e;
-	}
-	
+}
 
 .lt-form .f-input-wrapper select 
 {
