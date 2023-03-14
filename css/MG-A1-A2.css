@@ -20,6 +20,7 @@ hr {
 	font-size: 14px;
 }}
 
+
 @media screen and (max-width: 410px) {
 .f-input {
 	height: 45px;
@@ -29,19 +30,41 @@ hr {
 	font-size: 14px;
 		display: none;
 	}
+	
 	.f-header.f-header-26 {
 	font-size: 20px;
 	line-height: 1.23;
-		margin-top:-20px;
-}
-	.field-label {
-	font-size: 12px !important;
+	margin-top:-20px;
 }
 	
-.block-set {
+	.field-label {
+	font-size: 13px !important;
+}
+	
+	.block-set {
 	font-size: 14px;
 }
+	.label-value {
+	font-size: 13px;
 }
+	.builder-item.part-total {
+	font-size: 15px;
+}
+
+	.lt-form form.lt-form-inner {
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+	padding-bottom: 20px !important;
+	}
+	input.f-input {
+	height: 50px;
+}
+	.lt-form .f-input-wrapper select {
+	border: 1px solid rgb(204, 204, 204);
+	height: 50px;
+}
+}
+
 
 .btn.f-btn.button-md {
 	min-height: 55px;
@@ -49,20 +72,6 @@ hr {
 .lt-text-header-expand .text {
 	padding-top: 8px;
 	margin-left: -11px;
-}
-@media screen and (max-width: 400px) {
-	.lt-form form.lt-form-inner {
-	padding-left: 20px !important;
-	padding-right: 20px !important;
-	padding-bottom: 20px !important;
-	}
-input.f-input {
-	height: 50px;
-}
-	.lt-form .f-input-wrapper select {
-	border: 1px solid rgb(204, 204, 204);
-	height: 50px;
-}
 }
 
 .footerform {
