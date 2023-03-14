@@ -15,62 +15,6 @@ hr {
 	font-size: 15px;
 }
 
-@media screen and (max-width: 450px) {
-.f-subheader.f-subheader-sm {
-	font-size: 14px;
-}}
-
-
-@media screen and (max-width: 410px) {
-.f-input {
-	height: 45px;
-	font-size: 14px;
-}
-	.f-subheader.f-subheader-sm {
-	font-size: 14px;
-		display: none;
-	}
-	
-	.f-header.f-header-26 {
-	font-size: 20px;
-	line-height: 1.23;
-	margin-top:-20px;
-}
-	
-	.field-label {
-	font-size: 13px !important;
-}
-	
-	.label-value {
-	font-size: 13px;
-	margin-bottom: 5px;
-	font-weight: 400;
-	font-family: "Open Sans",sans-serif,sans,arial;
-}
-	
-	.block-set {
-	font-size: 14px;
-}
-	.builder-item.part-total {
-	font-size: 15px !important;
-}
-
-	.lt-form form.lt-form-inner {
-	padding-left: 20px !important;
-	padding-right: 20px !important;
-	padding-bottom: 20px !important;
-	}
-	
-	input.f-input {
-	height: 50px;
-}
-	.lt-form .f-input-wrapper select {
-	border: 1px solid rgb(204, 204, 204);
-	height: 50px;
-	
-}
-}
-
 
 .btn.f-btn.button-md {
 	min-height: 55px;
@@ -198,3 +142,58 @@ hr {
 	
 }
 
+@media screen and (max-width: 450px) {
+.f-subheader.f-subheader-sm {
+	font-size: 14px;
+}}
+
+
+@media screen and (max-width: 410px) {
+.f-input {
+	height: 45px;
+	font-size: 14px;
+}
+	.f-subheader.f-subheader-sm {
+	font-size: 14px;
+		display: none;
+	}
+	
+	.f-header.f-header-26 {
+	font-size: 20px;
+	line-height: 1.23;
+	margin-top:-20px;
+}
+	
+	.field-label {
+	font-size: 13px !important;
+}
+	
+	.label-value {
+	font-size: 13px;
+	margin-bottom: 5px;
+	font-weight: 400;
+	font-family: "Open Sans",sans-serif,sans,arial;
+}
+	
+	.block-set {
+	font-size: 14px;
+}
+	.builder-item.part-total {
+	font-size: 15px !important;
+}
+
+	.lt-form form.lt-form-inner {
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+	padding-bottom: 20px !important;
+	}
+	
+	input.f-input {
+	height: 50px;
+}
+	.lt-form .f-input-wrapper select {
+	border: 1px solid rgb(204, 204, 204);
+	height: 50px;
+	
+}
+}
