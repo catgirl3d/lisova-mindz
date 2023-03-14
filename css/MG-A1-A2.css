@@ -63,10 +63,6 @@ hr {
 	margin-top: -15px;
 }
 
-.text-muted {
-	color: #777;
-	padding-left: 40px;
-}
 
 /*
 .pull-left.form-position-title {
@@ -79,6 +75,11 @@ hr {
 	display: block;
 	padding-left: 20px;
 	padding-bottom: 7px;
+}
+
+.text-muted {
+	color: #777;
+	padding-left: 35px;
 }
 
 .builder-item.part-position {
