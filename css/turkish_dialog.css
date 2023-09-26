@@ -594,3 +594,7 @@ border-left: 3px solid;
 	font-family: 'proxima-nova' !important;
 	font-size: 14px !important;
 }
+
+.gc-tags span, .gc-tags a {
+	font-size: 14px;
+}
