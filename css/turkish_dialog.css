@@ -569,7 +569,7 @@ border-left: 3px solid;
 .flowchart-container .flowchart-block.operation-flowchart-block {
 	color: #000;
 	background: var(--flowchart-operation-block-color);
-	border-color: #aaa;
+	border-color: #ececec;
 }
 
 .flowchart-container {
@@ -580,6 +580,7 @@ border-left: 3px solid;
 	background: #fff8e3;
 	font-size: 12px;
    	width: max-content !important;
+	border-color: #f0f0f0;
 }
 
 .operation-flowchart-block {
@@ -593,7 +594,6 @@ border-left: 3px solid;
 	min-width: 180px;
 	position: absolute;
 	padding: 5px 10px;
-	border-radius: 3px;
 	font-size: 13px !important;
 	box-shadow: 0px 2px 3px rgba(0,0,0,0.06);
 	color: #000;
