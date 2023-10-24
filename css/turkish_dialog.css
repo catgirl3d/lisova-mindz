@@ -611,6 +611,19 @@ border-left: 3px solid;
 	display: none;
 }
 
+#flowchart .block-modal-window select {
+	min-height: unset !important;
+}
+
+.select2-container-active .select2-choice, .select2-container-multi.select2-container-active .select2-choices, .select2-container-multi.select2-dropdown-open .select2-choices {
+	outline: unset !important;
+	outline-offset: unset;
+}
+
+.select2-container {
+	max-width: unset;
+}
+
 #modal1 {
 	font-family: "proxima-nova", "Lato", Helvetica, Arial, sans-serif !important;
 }
