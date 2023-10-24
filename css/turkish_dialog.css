@@ -610,3 +610,19 @@ border-left: 3px solid;
 .flowchart-container .flowchart-connection-label, .flowchart-container .flowchart-endpoint-label {
 	display: none;
 }
+
+#modal1 {
+	font-family: "proxima-nova", "Lato", Helvetica, Arial, sans-serif !important;
+}
+
+.mission-update {
+	font-family: "proxima-nova", "Lato", Helvetica, Arial, sans-serif !important;
+}
+
+#testing {
+	font-family: "proxima-nova", "Lato", Helvetica, Arial, sans-serif !important;
+}
+
+.modal-content {
+	font-family: "proxima-nova", "Lato", Helvetica, Arial, sans-serif !important;
+}
