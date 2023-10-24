@@ -642,3 +642,8 @@ border-left: 3px solid;
 .select2-container .select2-choice, .select2-container .select2-choices, .select2-container .select2-choices .select2-search-field input {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
 }
+
+.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus, .dropdown-toggle:focus, .standard-page-content :focus, .standard-page-content a:focus {
+	outline: unset !important;
+	outline-offset: unset !important;
+}
