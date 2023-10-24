@@ -609,13 +609,13 @@ border-left: 3px solid;
 	min-height: unset !important;
 }
 
+.select2-container {
+	max-width: unset;
+}
+
 .select2-container-active .select2-choice, .select2-container-multi.select2-container-active .select2-choices, .select2-container-multi.select2-dropdown-open .select2-choices {
 	outline: unset !important;
 	outline-offset: unset;
-}
-
-.select2-container {
-	max-width: unset;
 }
 
 #modal1 {
@@ -627,10 +627,6 @@ border-left: 3px solid;
 }
 
 #testing {
-	font-family: "proxima-nova", "Lato", Helvetica, Arial, sans-serif !important;
-}
-
-.modal-content {
 	font-family: "proxima-nova", "Lato", Helvetica, Arial, sans-serif !important;
 }
 .select2-container .select2-choice, .select2-container .select2-choices, .select2-container .select2-choices .select2-search-field input {
