@@ -598,6 +598,7 @@ border-left: 3px solid;
 	font-weight: lighter;
 	width: max-content !important;
 	background: #f4f4f4;
+	font-family: "proxima-nova", "Lato", Helvetica, Arial, sans-serif !important;
 }
 
 .flowchart-container .flowchart-block.delayed-flowchart-block {
