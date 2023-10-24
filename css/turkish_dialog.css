@@ -569,6 +569,7 @@ border-left: 3px solid;
 .flowchart-container .flowchart-block.operation-flowchart-block {
 	color: #000;
 	background: var(--flowchart-operation-block-color);
+	border-color: antiquewhite;
 }
 
 .flowchart-container {
@@ -579,6 +580,7 @@ border-left: 3px solid;
 	background: #fff8e3;
 	font-size: 12px;
    	width: max-content !important;
+	border-color: whitesmoke !important;
 }
 
 .operation-flowchart-block {
