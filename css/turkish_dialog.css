@@ -489,53 +489,12 @@ height: 500px !important;
 }
 }*/
 
-
 .task-form .active-task-script {
 	padding-bottom: 0px !important;
 	margin-bottom: 5px !important;
 }
 
-.flowchart-container {
-	width: 400vh;
-}
-
-
-.flowchart-container .flowchart-block.condition-flowchart-block {
-	background: #fff8e3;
-	border-radius: 0;
-	font-size: 12px;
-    width: max-content !important;
-}
-
-
-.operation-flowchart-block {
-	background: #fff !important;
-}
-
-.flowchart-container .flowchart-block {
-	border: 1px solid #4848482e;
-	text-align: center;
-	max-width: 200px;
-	min-width: 180px;
-	position: absolute;
-	padding: 5px 10px;
-	border-radius: 3px;
-	font-size: 13px !important;
-	box-shadow: 0px 2px 3px rgba(0,0,0,0.06);
-	color: #000;
-	font-weight: lighter;
-	width: max-content !important;
-	background: #f4f4f4;
-}
-
-
-.flowchart-container .flowchart-block.delayed-flowchart-block {
-	background: #ffdada;
-}
-
-
 .resp-table .resp-left-block .resp-list li.fixed-by-manager.is-manager {
-
 	border: 0px solid #ababa2;
 	border-top-width: 0px;
 	border-bottom-width: 0px;
@@ -564,7 +523,6 @@ height: 500px !important;
 	font-weight: bold;
 }
 
-	
 .conversation-widget .comment > .text .text-content {
 	background: white;
 	border: 1px solid #eaeaea85 !important;
@@ -582,8 +540,7 @@ height: 500px !important;
 @media screen and (min-width: 1000px) {
 	#s2id_addmailingmessageoperation-mailing_id {
 	width: 100% !important;
-}
-}
+}}
 
 .p-border1{
 background: #f0f0f0;
@@ -608,4 +565,47 @@ border-left: 3px solid;
 	width: 19px!important;
 	height: 19px !important;
 	float: left;
+}
+.flowchart-container .flowchart-block.operation-flowchart-block {
+	color: #000;
+	background: var(--flowchart-operation-block-color);
+	border-color: #aaa;
+}
+
+.flowchart-container {
+	width: 500vh;
+}
+
+.flowchart-container .flowchart-block.condition-flowchart-block {
+	background: #fff8e3;
+	font-size: 12px;
+   	width: max-content !important;
+}
+
+.operation-flowchart-block {
+	background: #fff !important;
+}
+
+.flowchart-container .flowchart-block {
+	border: 1px solid #f0f0f0;
+	text-align: center;
+	max-width: 200px;
+	min-width: 180px;
+	position: absolute;
+	padding: 5px 10px;
+	border-radius: 3px;
+	font-size: 13px !important;
+	box-shadow: 0px 2px 3px rgba(0,0,0,0.06);
+	color: #000;
+	font-weight: lighter;
+	width: max-content !important;
+	background: #f4f4f4;
+}
+
+.flowchart-container .flowchart-block.delayed-flowchart-block {
+	background: #ffdada;
+}
+
+.flowchart-container .flowchart-connection-label, .flowchart-container .flowchart-endpoint-label {
+	display: none;
 }
