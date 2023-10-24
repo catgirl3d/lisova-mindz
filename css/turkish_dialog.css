@@ -515,7 +515,8 @@ height: 500px !important;
 .flowchart-container .flowchart-block {
 	border: 1px solid #4848482e;
 	text-align: center;
-	max-width: 200px;
+	max-width: 210px;
+	min-width: 210px;
 	position: absolute;
 	padding: 5px 10px;
 	border-radius: 3px;
@@ -597,4 +598,14 @@ border-left: 3px solid;
 
 .gc-tags span, .gc-tags a {
 	font-size: 14px;
+}
+
+.flowchart-container {
+	background: none !important;
+}
+
+.flowchart-block .flowchart-block-icon {
+	width: 19px!important;
+	height: 19px !important;
+	float: left;
 }
