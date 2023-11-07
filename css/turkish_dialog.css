@@ -635,10 +635,6 @@ border-left: 3px solid;
 	outline-offset: unset;
 }
 
-.btn-success, .btn-success:hover, .btn-success.active, .btn-success:active, .open > .dropdown-toggle.btn-success, .btn-success.focus, .btn-success:focus, .btn-success:active:focus, .open > .dropdown-toggle.btn-success:focus {
-	color: var(--flowchart-white-text-color) !important;
-}
-
 #modal1 {
 	font-family: "proxima-nova", "Lato", Helvetica, Arial, sans-serif !important;
 }
