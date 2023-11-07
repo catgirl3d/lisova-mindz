@@ -626,11 +626,8 @@ border-left: 3px solid;
 	min-height: unset !important;
 }
 
-.standard-page-content a {
-	color: 1 !important;
-}
 .standard-page-content a:focus, .standard-page-content a:hover {
-	color: 1 !important;
+	color: unset !important;
 }
 
 .select2-container {
@@ -640,6 +637,10 @@ border-left: 3px solid;
 .select2-container-active .select2-choice, .select2-container-multi.select2-container-active .select2-choices, .select2-container-multi.select2-dropdown-open .select2-choices {
 	outline: unset !important;
 	outline-offset: unset;
+}
+
+.btn-success, .btn-success:hover, .btn-success.active, .btn-success:active, .open > .dropdown-toggle.btn-success, .btn-success.focus, .btn-success:focus, .btn-success:active:focus, .open > .dropdown-toggle.btn-success:focus {
+	color: var(--flowchart-white-text-color) !important;
 }
 
 #modal1 {
