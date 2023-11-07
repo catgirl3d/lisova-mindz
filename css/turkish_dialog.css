@@ -598,7 +598,7 @@ border-left: 3px solid;
 }
 
 .flowchart-container .flowchart-block.delayed-flowchart-block {
-	background: #ffdada !important;
+	background: #ffdada;
 	border-color: #ddd6 !important;
 }
 .flowchart-container .flowchart-block.operation-flowchart-block {
