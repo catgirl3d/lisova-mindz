@@ -622,10 +622,6 @@ border-left: 3px solid;
 	min-height: unset !important;
 }
 
-.standard-page-content a:focus, .standard-page-content a:hover {
-	color: unset !important;
-}
-
 .select2-container {
 	max-width: unset;
 }
