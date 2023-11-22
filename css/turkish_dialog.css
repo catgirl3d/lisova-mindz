@@ -597,6 +597,10 @@ border-left: 3px solid;
 	font-family: "proxima-nova", "Lato", Helvetica, Arial, sans-serif !important;
 }
 
+.standard-page-content a:focus, .standard-page-content a:hover {
+	color: unset !important;
+}
+
 .flowchart-container .flowchart-block.delayed-flowchart-block {
 	background: #ffdada;
 	border-color: #ddd6 !important;
