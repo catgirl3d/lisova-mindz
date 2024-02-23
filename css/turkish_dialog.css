@@ -654,3 +654,9 @@ border-left: 3px solid;
 	outline: unset !important;
 	outline-offset: unset !important;
 }
+.task-form {
+	border: 1px solid #d9d9d9;
+	margin-bottom: 20px;
+	padding-bottom: 0px;
+	border-left: solid 4px #5e79bb;
+}
